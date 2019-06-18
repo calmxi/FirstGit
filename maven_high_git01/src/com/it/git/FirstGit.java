@@ -9,4 +9,8 @@ public class FirstGit {
         System.out.println("创建第一个Git");
         System.out.println("创建第一个Git");
     }
+    public void test(){
+        int i=0;
+        i += 10;
+    }
 }
